@@ -2,12 +2,6 @@
 
 React Postal Code is a library that can be used inside any ReactJS app. This library can be used to render Country, District & Block/City for any given Indian Pin Code. This library uses the official REST API provided by the Indian Government.
 
-## About
-
-The four input fields are wrapped inside an `<div>` element and each input field is also wrapped inside `<div>`. So that a user can style it according to the need in the project.
-
-Whenever the wrong Pincode is entered red border appears on the pin code input field and on entering a right pin code, city, district and state input fields get automatically filled with correct data
-
 ## Working
 
 ```js
